@@ -26,5 +26,5 @@ cd book-recommender
 ![App-Image](app1.png)
 
 # Live Demo
-[Live-Demo]("https://https://book-recommender-cdpvvpgb5myz5rgvrmmwin.streamlit.app/)
+[Live-Demo]("https://https://book-recommender-cdpvvpgb5myz5rgvrmmwin.streamlit.app/")
 
